@@ -22,7 +22,7 @@ Please ⭐️ star this project and share it with others to show your support. [
 
 #### Demo
 
-![](./public/demo_gif.gif)
+![](./demo_gif.gif)
 
 #### Getting Started
 
